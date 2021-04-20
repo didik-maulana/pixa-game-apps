@@ -1,0 +1,471 @@
+{
+  "id": 5286,
+  "slug": "tomb-raider",
+  "name": "Tomb Raider (2013)",
+  "name_original": "Tomb Raider (2013)",
+  "description": "<p>A cinematic revival of the series in its action third person form, Tomb Rider follows Lara in her least experience period of life – her youth. Heavily influenced by Naughty Dog’s “Uncharted”, the game is a mix of everything, from stealth and survival to combat and QTE action scenes.<br />\nYoung Lara Croft arrives on the Yamatai, lost island near Japan, as the leader of the expedition in search of the Yamatai Kingdom, with a diverse team of specialists. But shipwreck postponed the successful arrival and seemingly forgotten island is heavily populated with hostile inhabitants, cultists of Solarii Brotherhood.<br />\nThe game will be graphic at times, especially after failed QTE’s during some of the survival scenes, but overall players will enjoy classic action adventure, reminiscent of the beginning of the series. This game is not a direct sequel or continuation of existing sub-series within the franchise, but a reboot, setting up Tomb Raider to represent modern gaming experience.<br />\nThe game has RPG elements and has a world, which you can explore during the story campaign and after the completion. As well as multiplayer mode, where 2 teams (4 scavengers and 4 survivors) are clashing in 3 game modes while using weapons and environments from the single-player campaign.</p>",
+  "metacritic": 86,
+  "metacritic_platforms": [],
+  "released": "2013-03-05",
+  "tba": false,
+  "updated": "2020-05-14T14:01:07",
+  "background_image": "https://media.rawg.io/media/games/81b/81b138691f027ed1f8720758daa0d895.jpg",
+  "background_image_additional": "https://media.rawg.io/media/screenshots/755/75595129616c2bb23a8595eb37fe25bd.jpg",
+  "website": "http://www.tombraider.com",
+  "rating": 4.06,
+  "rating_top": 4,
+  "ratings": [
+    {
+      "id": 4,
+      "title": "recommended",
+      "count": 1378,
+      "percent": 60.41
+    },
+    {
+      "id": 5,
+      "title": "exceptional",
+      "count": 581,
+      "percent": 25.47
+    },
+    {
+      "id": 3,
+      "title": "meh",
+      "count": 259,
+      "percent": 11.35
+    },
+    {
+      "id": 1,
+      "title": "skip",
+      "count": 63,
+      "percent": 2.76
+    }
+  ],
+  "reactions": {
+    "1": 2,
+    "3": 6,
+    "4": 3,
+    "5": 1,
+    "6": 4,
+    "7": 2,
+    "8": 1,
+    "9": 1,
+    "10": 2,
+    "11": 5,
+    "14": 1,
+    "16": 1,
+    "18": 1
+  },
+  "added": 9886,
+  "added_by_status": {
+    "yet": 317,
+    "owned": 6768,
+    "beaten": 2331,
+    "toplay": 126,
+    "dropped": 271,
+    "playing": 73
+  },
+  "playtime": 11,
+  "screenshots_count": 19,
+  "movies_count": 0,
+  "creators_count": 9,
+  "achievements_count": 148,
+  "parent_achievements_count": 48,
+  "reddit_url": "https://www.reddit.com/r/TombRaider/",
+  "reddit_name": "TombRaider: All things Tomb Raider related",
+  "reddit_description": "A subreddit for people interested in Lara Croft and the Tomb Raider video game franchise, the comic books, etc. tags: TombRaider, Tomb Raider, LaraCroft, Lara Croft, Lara, Croft",
+  "reddit_logo": "https://b.thumbs.redditmedia.com/EUTKzXw8hiIhD6AgpI3OfLiOOI3Uwqq1OSiO92cgFQk.png",
+  "reddit_count": 5149,
+  "twitch_count": 0,
+  "youtube_count": 1000000,
+  "reviews_text_count": 14,
+  "ratings_count": 2267,
+  "suggestions_count": 680,
+  "alternative_names": [
+    "Tomb Raider 2013"
+  ],
+  "metacritic_url": "",
+  "parents_count": 0,
+  "additions_count": 2,
+  "game_series_count": 17,
+  "user_game": null,
+  "reviews_count": 2281,
+  "saturated_color": "0f0f0f",
+  "dominant_color": "0f0f0f",
+  "parent_platforms": [
+    {
+      "platform": {
+        "id": 1,
+        "name": "PC",
+        "slug": "pc"
+      }
+    },
+    {
+      "platform": {
+        "id": 2,
+        "name": "PlayStation",
+        "slug": "playstation"
+      }
+    },
+    {
+      "platform": {
+        "id": 3,
+        "name": "Xbox",
+        "slug": "xbox"
+      }
+    },
+    {
+      "platform": {
+        "id": 5,
+        "name": "Apple Macintosh",
+        "slug": "mac"
+      }
+    }
+  ],
+  "platforms": [
+    {
+      "platform": {
+        "id": 4,
+        "name": "PC",
+        "slug": "pc",
+        "image": null,
+        "year_end": null,
+        "year_start": null,
+        "games_count": 240415,
+        "image_background": "https://media.rawg.io/media/games/7fa/7fa0b586293c5861ee32490e953a4996.jpg"
+      },
+      "released_at": "2013-03-05",
+      "requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong>Windows XP / Windows Vista / Windows 7<br>\t</li><li><strong>Processor:</strong>1.8 GHz Processor<br>\t</li><li><strong>Memory:</strong>512 MB RAM<br>\t</li><li><strong>Graphics:</strong>3D graphics card compatible with DirectX 9<br>\t</li><li><strong>DirectX®:</strong>9.0<br>\t</li><li><strong>Hard Drive:</strong>2 GB HD space</li></ul>"
+      }
+    },
+    {
+      "platform": {
+        "id": 18,
+        "name": "PlayStation 4",
+        "slug": "playstation4",
+        "image": null,
+        "year_end": null,
+        "year_start": null,
+        "games_count": 4894,
+        "image_background": "https://media.rawg.io/media/games/9dd/9ddabb34840ea9227556670606cf8ea3.jpg"
+      },
+      "released_at": "2013-03-05",
+      "requirements": null
+    },
+    {
+      "platform": {
+        "id": 16,
+        "name": "PlayStation 3",
+        "slug": "playstation3",
+        "image": null,
+        "year_end": null,
+        "year_start": null,
+        "games_count": 3601,
+        "image_background": "https://media.rawg.io/media/games/1bb/1bb86c35ffa3eb0d299b01a7c65bf908.jpg"
+      },
+      "released_at": "2013-03-05",
+      "requirements": null
+    },
+    {
+      "platform": {
+        "id": 14,
+        "name": "Xbox 360",
+        "slug": "xbox360",
+        "image": null,
+        "year_end": null,
+        "year_start": null,
+        "games_count": 2539,
+        "image_background": "https://media.rawg.io/media/games/7a2/7a2500ee8b2c0e1ff268bb4479463dea.jpg"
+      },
+      "released_at": "2013-03-05",
+      "requirements": null
+    },
+    {
+      "platform": {
+        "id": 1,
+        "name": "Xbox One",
+        "slug": "xbox-one",
+        "image": null,
+        "year_end": null,
+        "year_start": null,
+        "games_count": 3468,
+        "image_background": "https://media.rawg.io/media/games/511/5118aff5091cb3efec399c808f8c598f.jpg"
+      },
+      "released_at": "2013-03-05",
+      "requirements": null
+    },
+    {
+      "platform": {
+        "id": 5,
+        "name": "macOS",
+        "slug": "macos",
+        "image": null,
+        "year_end": null,
+        "year_start": null,
+        "games_count": 54769,
+        "image_background": "https://media.rawg.io/media/games/91c/91c4f377c1e09755b60a0102c5252843.jpg"
+      },
+      "released_at": "2013-03-05",
+      "requirements": null
+    }
+  ],
+  "stores": [
+    {
+      "id": 79036,
+      "url": "https://apps.apple.com/app/tomb-raider/id625206080?mt=12&uo=4",
+      "store": {
+        "id": 4,
+        "name": "App Store",
+        "slug": "apple-appstore",
+        "domain": "apps.apple.com",
+        "games_count": 64939,
+        "image_background": "https://media.rawg.io/media/games/bc0/bc06a29ceac58652b684deefe7d56099.jpg"
+      }
+    },
+    {
+      "id": 218233,
+      "url": "https://play.google.com/store/apps/details?id=com.nvidia.squareenix.tombraider2013&hl=en&gl=us",
+      "store": {
+        "id": 8,
+        "name": "Google Play",
+        "slug": "google-play",
+        "domain": "play.google.com",
+        "games_count": 16078,
+        "image_background": "https://media.rawg.io/media/games/530/5302dd22a190e664531236ca724e8726.jpg"
+      }
+    },
+    {
+      "id": 5640,
+      "url": "https://store.playstation.com/en-us/product/UP0082-CUSA00107_00-000000TOMBRAIDER",
+      "store": {
+        "id": 3,
+        "name": "PlayStation Store",
+        "slug": "playstation-store",
+        "domain": "store.playstation.com",
+        "games_count": 6533,
+        "image_background": "https://media.rawg.io/media/games/b7d/b7d3f1715fa8381a4e780173a197a615.jpg"
+      }
+    },
+    {
+      "id": 13151,
+      "url": "http://store.steampowered.com/app/203160/",
+      "store": {
+        "id": 1,
+        "name": "Steam",
+        "slug": "steam",
+        "domain": "store.steampowered.com",
+        "games_count": 41749,
+        "image_background": "https://media.rawg.io/media/games/81b/81b138691f027ed1f8720758daa0d895.jpg"
+      }
+    },
+    {
+      "id": 33824,
+      "url": "https://marketplace.xbox.com/en-us/product/tomb-raider/66acd000-77fe-1000-9115-d80253510802",
+      "store": {
+        "id": 7,
+        "name": "Xbox 360 Store",
+        "slug": "xbox360",
+        "domain": "marketplace.xbox.com",
+        "games_count": 1765,
+        "image_background": "https://media.rawg.io/media/games/73e/73eecb8909e0c39fb246f457b5d6cbbe.jpg"
+      }
+    }
+  ],
+  "developers": [
+    {
+      "id": 4037,
+      "name": "Crystal Dynamics",
+      "slug": "crystal-dynamics",
+      "games_count": 36,
+      "image_background": "https://media.rawg.io/media/screenshots/026/02699201df508abe484fbbcf90789626.jpg"
+    }
+  ],
+  "genres": [
+    {
+      "id": 4,
+      "name": "Action",
+      "slug": "action",
+      "games_count": 91536,
+      "image_background": "https://media.rawg.io/media/games/d82/d82990b9c67ba0d2d09d4e6fa88885a7.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Adventure",
+      "slug": "adventure",
+      "games_count": 63220,
+      "image_background": "https://media.rawg.io/media/games/d07/d07df918ca903dec73bece2854433d4b.jpg"
+    }
+  ],
+  "tags": [
+    {
+      "id": 40836,
+      "name": "Full controller support",
+      "slug": "full-controller-support",
+      "language": "eng",
+      "games_count": 8590,
+      "image_background": "https://media.rawg.io/media/games/16b/16b1b7b36e2042d1128d5a3e852b3b2f.jpg"
+    },
+    {
+      "id": 69,
+      "name": "Action-Adventure",
+      "slug": "action-adventure",
+      "language": "eng",
+      "games_count": 5294,
+      "image_background": "https://media.rawg.io/media/games/af7/af7a831001c5c32c46e950cc883b8cb7.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Atmospheric",
+      "slug": "atmospheric",
+      "language": "eng",
+      "games_count": 8516,
+      "image_background": "https://media.rawg.io/media/games/b11/b115b2bc6a5957a917bc7601f4abdda2.jpg"
+    },
+    {
+      "id": 110,
+      "name": "Cinematic",
+      "slug": "cinematic",
+      "language": "eng",
+      "games_count": 155,
+      "image_background": "https://media.rawg.io/media/games/560/56056a71c74f751552c9baedebf8f317.jpg"
+    },
+    {
+      "id": 193,
+      "name": "Classic",
+      "slug": "classic",
+      "language": "eng",
+      "games_count": 1432,
+      "image_background": "https://media.rawg.io/media/games/ed5/ed5b7d01dd68fd8d598c91ad61f153af.jpg"
+    },
+    {
+      "id": 126,
+      "name": "Dinosaurs",
+      "slug": "dinosaurs",
+      "language": "eng",
+      "games_count": 916,
+      "image_background": "https://media.rawg.io/media/games/81b/81b138691f027ed1f8720758daa0d895.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Exploration",
+      "slug": "exploration",
+      "language": "eng",
+      "games_count": 6821,
+      "image_background": "https://media.rawg.io/media/games/d82/d82990b9c67ba0d2d09d4e6fa88885a7.jpg"
+    },
+    {
+      "id": 189,
+      "name": "Female Protagonist",
+      "slug": "female-protagonist",
+      "language": "eng",
+      "games_count": 4310,
+      "image_background": "https://media.rawg.io/media/games/b34/b3419c2706f8f8dbe40d08e23642ad06.jpg"
+    },
+    {
+      "id": 306,
+      "name": "Lara Croft",
+      "slug": "lara-croft",
+      "language": "eng",
+      "games_count": 14,
+      "image_background": "https://media.rawg.io/media/games/7f6/7f6cd70ba2ad57053b4847c13569f2d8.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Multiplayer",
+      "slug": "multiplayer",
+      "language": "eng",
+      "games_count": 20562,
+      "image_background": "https://media.rawg.io/media/games/88c/88c5b4d7c80276c03ff62aebb1a99ad4.jpg"
+    },
+    {
+      "id": 269,
+      "name": "Quick-Time Events",
+      "slug": "quick-time-events",
+      "language": "eng",
+      "games_count": 61,
+      "image_background": "https://media.rawg.io/media/games/34e/34ecf9a17fbd9344b0bd8f044ca3f277.jpg"
+    },
+    {
+      "id": 74,
+      "name": "Retro",
+      "slug": "retro",
+      "language": "eng",
+      "games_count": 14621,
+      "image_background": "https://media.rawg.io/media/games/14a/14a83c56ff668baaced6e8c8704b6391.jpg"
+    },
+    {
+      "id": 24,
+      "name": "RPG",
+      "slug": "rpg",
+      "language": "eng",
+      "games_count": 9584,
+      "image_background": "https://media.rawg.io/media/games/d1a/d1a2e99ade53494c6330a0ed945fe823.jpg"
+    },
+    {
+      "id": 31,
+      "name": "Singleplayer",
+      "slug": "singleplayer",
+      "language": "eng",
+      "games_count": 78029,
+      "image_background": "https://media.rawg.io/media/games/c4b/c4b0cab189e73432de3a250d8cf1c84e.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Stealth",
+      "slug": "stealth",
+      "language": "eng",
+      "games_count": 2766,
+      "image_background": "https://media.rawg.io/media/games/16b/16b1b7b36e2042d1128d5a3e852b3b2f.jpg"
+    },
+    {
+      "id": 118,
+      "name": "Story Rich",
+      "slug": "story-rich",
+      "language": "eng",
+      "games_count": 6601,
+      "image_background": "https://media.rawg.io/media/games/328/3283617cb7d75d67257fc58339188742.jpg"
+    },
+    {
+      "id": 149,
+      "name": "Third Person",
+      "slug": "third-person",
+      "language": "eng",
+      "games_count": 2416,
+      "image_background": "https://media.rawg.io/media/games/562/562553814dd54e001a541e4ee83a591c.jpg"
+    },
+    {
+      "id": 150,
+      "name": "Third-Person Shooter",
+      "slug": "third-person-shooter",
+      "language": "eng",
+      "games_count": 950,
+      "image_background": "https://media.rawg.io/media/games/81b/81b138691f027ed1f8720758daa0d895.jpg"
+    }
+  ],
+  "publishers": [
+    {
+      "id": 308,
+      "name": "Square Enix",
+      "slug": "square-enix",
+      "games_count": 458,
+      "image_background": "https://media.rawg.io/media/games/a12/a12f806432cb385bc286f0935c49cd14.jpg"
+    }
+  ],
+  "esrb_rating": {
+    "id": 4,
+    "name": "Mature",
+    "slug": "mature"
+  },
+  "clip": {
+    "clip": "https://media.rawg.io/media/stories-640/02a/02ae488ef3392f85c002070b76fd6e37.mp4",
+    "clips": {
+      "320": "https://media.rawg.io/media/stories-320/72b/72b59b73ae9dddeedcf32356e4642917.mp4",
+      "640": "https://media.rawg.io/media/stories-640/02a/02ae488ef3392f85c002070b76fd6e37.mp4",
+      "full": "https://media.rawg.io/media/stories/c38/c38f88ae99cd6287d4c47db5e4147baf.mp4"
+    },
+    "video": "sAh36qL_bJ0",
+    "preview": "https://media.rawg.io/media/stories-previews/779/7797244cc365b61d9710b5f7b6fd48a5.jpg"
+  },
+  "description_raw": "A cinematic revival of the series in its action third person form, Tomb Rider follows Lara in her least experience period of life – her youth. Heavily influenced by Naughty Dog’s “Uncharted”, the game is a mix of everything, from stealth and survival to combat and QTE action scenes.\r\nYoung Lara Croft arrives on the Yamatai, lost island near Japan, as the leader of the expedition in search of the Yamatai Kingdom, with a diverse team of specialists. But shipwreck postponed the successful arrival and seemingly forgotten island is heavily populated with hostile inhabitants, cultists of Solarii Brotherhood.\r\nThe game will be graphic at times, especially after failed QTE’s during some of the survival scenes, but overall players will enjoy classic action adventure, reminiscent of the beginning of the series. This game is not a direct sequel or continuation of existing sub-series within the franchise, but a reboot, setting up Tomb Raider to represent modern gaming experience.\r\nThe game has RPG elements and has a world, which you can explore during the story campaign and after the completion. As well as multiplayer mode, where 2 teams (4 scavengers and 4 survivors) are clashing in 3 game modes while using weapons and environments from the single-player campaign."
+}
+
